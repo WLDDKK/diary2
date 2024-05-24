@@ -11,6 +11,7 @@
    :caption: Contents:
 
    2020/index
+   2024/index
    about
 
 
