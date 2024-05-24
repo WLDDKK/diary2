@@ -4,5 +4,5 @@
 .. toctree::
    :maxdepth: 2
 
-   read the docs部署记录【排雷】/contents
+   readthedocs部署记录/contents
    
